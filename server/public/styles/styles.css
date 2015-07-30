@@ -5,8 +5,12 @@ body {
     margin: auto;
 }
 
+#clickyButton {
+
+}
 #content {
     display: none;
+
 }
 
 h1 {
