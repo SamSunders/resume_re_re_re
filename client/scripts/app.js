@@ -8,8 +8,9 @@ $(document).ready(function(){
 
     });
     $('body').on("click", "#content", function(){
-        $("#clickyButton").show();
+
         $( "#content" ).slideUp( "slow" );
+        $("#clickyButton").show();
 
 
     });
